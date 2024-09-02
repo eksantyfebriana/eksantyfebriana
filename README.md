@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @eksantyfebriana
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me :
 - instagram @eksantyfebriana
 
